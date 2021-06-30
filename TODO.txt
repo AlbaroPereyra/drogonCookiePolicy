@@ -1,0 +1,11 @@
+DROGON cookie policy
+Every user must be given a cooking with the url the user tried to visit.
+
+If this url is the cookie tester, the cookie tester url must reload to verify cookies are being accepted. If for some reason this gets us into an infinite loop, then give the user a token cookie and read it on reload.
+
+If the cookies tester is unable to determine if cookies are being accepted. It redirects the user to a 404 error page detailing that cookies must be enabled to use the website
+
+If cookie test determines cookies are being accepted. In a very simple and fast responsive page. Prompt the user to Accept or Decline cookies. If the user Declines to accept cookies redirect them to a 404 error page letting them know they must accept cookies to use the website.  In this page allow users to reconsider accepting cookies by allowing them to go back to the prompt page.
+
+
+EOF

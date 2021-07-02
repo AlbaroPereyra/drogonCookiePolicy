@@ -6,3 +6,6 @@ If this url is the cookie tester, the cookie tester url must reload to verify co
 If the cookies tester is unable to determine if cookies are being accepted. It redirects the user to a 404 error page detailing that cookies must be enabled to use the website
 
 If cookie test determines cookies are being accepted. In a very simple and fast responsive page. Prompt the user to Accept or Decline cookies once. If the user Declines to accept cookies redirect them to a 404 error page letting them know they must accept cookies to use the website.  In this page allow users to reconsider accepting cookies again by allowing them to go back to the prompt page.
+
+Read it until I get it:
+https://drogon.docsforge.com/master/session/#examples-of-sessions
